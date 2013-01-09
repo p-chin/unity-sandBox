@@ -1,10 +1,8 @@
-プロジェクト・タイトル
+unity-sandBox
 ======================
-ここにプロジェクトの概要を書きます。
-行末にスペースを2つ入れると
-改行されます。
- 
-段落を分けるには、[空行](http://example.com/) を入れます。
+Unityで遊んだ痕跡
+
+*
  
 使い方
 ------
@@ -46,14 +44,3 @@
 >
 > > スペースを挟んで `>` を重ねると、引用の中で引用ができますが、
 > > GitHubの場合、1行前に空の引用が無いと、正しくマークアップされません。
- 
-ライセンス
-----------
-Copyright &copy; 2011 xxxxxx
-Licensed under the [Apache License, Version 2.0][Apache]
-Distributed under the [MIT License][mit].
-Dual licensed under the [MIT license][MIT] and [GPL license][GPL].
- 
-[Apache]: http://www.apache.org/licenses/LICENSE-2.0
-[MIT]: http://www.opensource.org/licenses/mit-license.php
-[GPL]: http://www.gnu.org/licenses/gpl.html
